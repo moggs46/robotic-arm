@@ -21,7 +21,6 @@ Small 3-degree steps were chosen during testing because they gave much more prec
 ## Files
 | Path | Contents |
 |---|---|
-| `arduino/bluetooth_arm/bluetooth_arm.ino` | Final Arduino code |
-
+   | `bluetooth_arm.ino` | Final Arduino code |
 ## Team
 Built by a team of five. My role: Arduino programming, Bluetooth integration and the MIT App Inventor control app.
